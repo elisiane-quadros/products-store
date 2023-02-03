@@ -23,7 +23,6 @@ const Products = () => {
   useEffect(() => {
     setLoading(true);
     dispatch(getProducts());
-    setLoading(false);
     setTimeout(() => setLoading(false), 2000);
   }, [dispatch]);
 
