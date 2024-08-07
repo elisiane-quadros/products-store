@@ -1,4 +1,4 @@
-# Teste - Loja de Produtos
+# Loja de Produtos
 
 ## 💻 Sobre o projeto
 
